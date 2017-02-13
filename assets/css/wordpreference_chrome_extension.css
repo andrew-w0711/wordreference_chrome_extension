@@ -1,0 +1,23 @@
+.pronon_from_CE{
+    display: inline-block;
+    list-style-type: none;
+    vertical-align: top;
+    margin-top: 20px;
+}
+
+.pronon_from_CE li {
+    padding: 5px 0px;
+    font-size: 15px;
+}
+
+.pronon_from_CE li i {
+    cursor: pointer;
+}
+
+.pronon_from_CE li span {
+    margin: 0 10px;
+}
+
+#listen_txt {
+    border-right: none!important;
+}
